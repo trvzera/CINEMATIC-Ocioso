@@ -1,0 +1,90 @@
+Report created: 
+	6/14/2026	12:38:54 AM
+
+Project name: ocioso cinematic.aep
+
+Source files collected to: 
+	C:\Users\thest\Downloads\ocioso cinematic folder
+
+Source files collected: All
+
+Collected comps:  
+	floresta
+	floresta 2
+	criatura
+	espreita
+	Pre-comp 1
+	
+Number of collected files:  15
+
+Size of collected files:  66.6 MB
+
+Collected source files: 
+	C:\Users\thest\Downloads\OCIOSO CINEMATIC\audios\Breathing Sound Effect - Sound Effects (youtube).mp3
+	C:\Users\thest\Downloads\OCIOSO CINEMATIC\audios\cricket on a summer night  Cricket sound effects  Copyright Free Nature sounds - Audio Wind (youtube).mp3
+	C:\Users\thest\Downloads\OCIOSO CINEMATIC\audios\Dark Bramble - Andrew Prahlow (youtube).mp3
+	C:\Users\thest\Downloads\OCIOSO CINEMATIC\audios\Efeito sonoro - Som de criaturas Jurássicas (som de dinossauros) - Trilhas Sonoras e Efeitos (youtube).mp3
+	C:\Users\thest\Downloads\OCIOSO CINEMATIC\audios\forest footsteps sound effect  walking in forest sound effect  copyright free sound effects - Sound Effects (youtube).mp3
+	C:\Users\thest\Downloads\OCIOSO CINEMATIC\audios\heavy breathing sound effect - Filmcrew Sound Effects (youtube).mp3
+	C:\Users\thest\Downloads\OCIOSO CINEMATIC\audios\Scary Breathing And Heartbeat Sound Effects _ Hombre aterrado, respiración - efecto de sonido - Scary Sound Effects (youtube).mp3
+	C:\Users\thest\Downloads\OCIOSO CINEMATIC\audios\Slow Heartbeat (for Nervous_Exciting Moments) - Sound Effect for Editing - Sound Library (youtube).mp3
+	C:\Users\thest\Downloads\OCIOSO CINEMATIC\audios\Sound Effect - Bass Impact FREE - SoundTube Library (youtube).mp3
+	C:\Users\thest\Downloads\OCIOSO CINEMATIC\audios\Walking In Forest - Sound Effect for editing - Sound Library (youtube).mp3
+	C:\Users\thest\Downloads\OCIOSO CINEMATIC\imagens\criatura.psd
+	C:\Users\thest\Downloads\OCIOSO CINEMATIC\imagens\espreita.psd
+	C:\Users\thest\Downloads\OCIOSO CINEMATIC\imagens\floresta.psd
+	C:\Users\thest\Downloads\OCIOSO CINEMATIC\overlays\Camcorder Low Battery Greenscreen HD - Brfx Studio (1080p, h264, youtube).mp4
+	C:\Users\thest\Downloads\OCIOSO CINEMATIC\overlays\lowbattery.webp
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  23
+
+Effect:  
+	
+Effect:  Angle Control
+	
+Effect:  Bass & Treble
+	
+Effect:  BCC Brightness-Contrast
+	
+Effect:  BCC Film Damage
+	
+Effect:  BCC Film Grain
+	
+Effect:  BCC Lens Blur OBS
+	
+Effect:  BCC Video Glitch
+	
+Effect:  CC Bend It
+	
+Effect:  CC Burn Film
+	
+Effect:  Directional Blur
+	
+Effect:  Fast Box Blur
+	
+Effect:  Fill
+	
+Effect:  Gaussian Blur
+	
+Effect:  Glow
+	
+Effect:  Keylight (1.2)
+	
+Effect:  Looks
+	
+Effect:  S_Flicker
+	
+Effect:  S_Shake
+	
+Effect:  Slider Control
+	
+Effect:  Solid Composite
+	
+Effect:  Venetian Blinds
+	
+Effect:  Wave Warp
+	
+
